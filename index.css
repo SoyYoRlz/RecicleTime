@@ -1,0 +1,38 @@
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 60%;
+      margin: auto;
+  }
+
+header{
+  background-color:  rgb(83, 6, 102);
+  color: rgb(255, 0, 200);
+  text-align: center;
+  font-family: "SUSE", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  margin-left: -1px;
+  margin-right: -1px;
+  padding: 25px;
+  top: 0;
+}
+
+footer{
+  background-color: rgb(83, 6, 102);
+  color: rgb(255, 0, 200);
+  margin-top: 25px;
+  text-align: center;
+  font-family: "SUSE", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  margin-left: -1px;
+  margin-right: -1px;
+  padding-bottom: 20px;
+  padding-top: 15px;
+
+
+}
+
+  
